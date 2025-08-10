@@ -16,9 +16,9 @@ Os códigos estão organizados em pastas independentes, cada uma com seu própri
  - Cada pasta possui um README.md com instruções detalhadas.
  - O formato geral para rodar qualquer projeto é:
    
-      cd nome-da-pasta
-      pip install-r requirements.txt
-      python nome-do-arquivo.py
+       * cd nome-da-pasta
+        pip install-r requirements.txt
+        python nome-do-arquivo.py
 
 
 # 📌Observação
