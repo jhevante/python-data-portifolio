@@ -5,7 +5,7 @@ Os códigos estão organizados em pastas independentes, cada uma com seu própri
 
 | Projeto                                               | Descrição                                                              | Tecnologias                           |
 | ----------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------- |
-| [1 - EDA de Vendas](./https://github.com/jhevante/Eda_vendas)                   | Análise exploratória de dados com gráficos e estatísticas descritivas. | `pandas`, `matplotlib`, `seaborn`     |
+| [1 - EDA de Vendas](https://github.com/jhevante/Eda_vendas)                   | Análise exploratória de dados com gráficos e estatísticas descritivas. | `pandas`, `matplotlib`, `seaborn`     |
 | [2 - Web Scraping de Livros](./2-web-scraping-livros) | Extração de títulos e preços de livros de um site público.             | `requests`, `BeautifulSoup`, `pandas` |
 | [3 - Automação de Relatório](./3-relatorio-automacao) | Geração automática de ranking de vendas em Excel.                      | `pandas`, `openpyxl`                  |
 | [4 - API de Clima](./4-api-clima)                     | Consumo da API OpenWeather para obter clima em tempo real.             | `requests`, `pandas`                  |
