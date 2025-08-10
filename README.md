@@ -1,4 +1,5 @@
-Python Data Portfolio##Python Data Portifólio
+##Python Data Portifólio
+
 Este repositório reúne 5 mini projetos em Python que demonstram habilidades práticas em análise de dados, automação, web scraping, consumo de APIs e dashboards interativos.
 Os códigos estão organizados em pastas independentes, cada uma com seu próprio requirements.txt e instruções para execução.
 
